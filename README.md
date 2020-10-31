@@ -3,6 +3,8 @@
 Details:
 
    * @Author : Dwarka prasad Bairwa
+   
+   * File Name : classification_Algorithms(including neural network) for diabetes dataset.ipynb
 
    * Dataset : [Diabetes Dataset](https://www.kaggle.com/uciml/pima-indians-diabetes)
 
