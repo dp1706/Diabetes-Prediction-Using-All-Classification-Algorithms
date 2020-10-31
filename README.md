@@ -66,11 +66,15 @@ Topics :
    
 ## DATASET VISUALIZATION
 
-  * Counting Number of lables in the Dataset
+  * __Counting Number of lables in the Dataset__
 
 ![count](count.png)
 
-  * plotting distributions of each feature
+  * __plotting distributions of each feature__
 
 ![distplot](Distplot.png)
+
+  * __Age Wise Label Distributions__
+  
+ ![Age Wise](!)
 
