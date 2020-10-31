@@ -66,9 +66,9 @@ Topics :
    
 ## DATASET VISUALIZATION
 
-    #### Counting Number of lables in the Dataset
+  * Counting Number of lables in the Dataset
     ![count](count.png)
 
-    #### plotting distributions of each feature
+  * plotting distributions of each feature
     ![distplot](distplot.png)
 
