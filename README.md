@@ -29,39 +29,39 @@ Topics :
 
 1. I used the following classification Algorithms for the predictions:
 
-* Logistic Regression
-* KNN
-* Random Forest
-* Decision Tree
-* Support Vector Machine
-* Neural Network
-    * Using Scikit MLP Classifier
-    * Using TensorFlow.Keras
-* Naive Bays
-* GradientBoosting Classifier
+   * Logistic Regression
+   * KNN
+   * Random Forest
+   * Decision Tree
+   * Support Vector Machine
+   * Neural Network
+      * Using Scikit MLP Classifier
+      * Using TensorFlow.Keras
+   * Naive Bays
+   * GradientBoosting Classifier
 
 2. Find Results For Each Algorithms:
 
-* Accuracy
-* precision
-* recall
-* f1-score
-* Confusion Matrix
+   * Accuracy
+   * precision
+   * recall
+   * f1-score
+   * Confusion Matrix
 
 3. Data Visualization
 
 4. Library Used:
 
-* `Scikit-learn`
+   * `Scikit-learn`
 
-* `Matplotlib`
+   * `Matplotlib`
 
-* `Pandas`
+   * `Pandas`
 
-* `Numpy`
+   * `Numpy`
 
-* `Seaborn`
+   * `Seaborn`
 
-* `Tensorflow` __For Neural Network__
+   * `Tensorflow` __For Neural Network__
 
 
