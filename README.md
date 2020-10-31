@@ -72,5 +72,5 @@ Topics :
 
   * plotting distributions of each feature
 
-![distplot](distplot.png)
+![distplot](Distplot.png)
 
