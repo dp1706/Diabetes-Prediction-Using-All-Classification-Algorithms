@@ -26,3 +26,18 @@ Topics :
     * [Using Tesnorflow Keras](#Using-Tesnorflow-Keras)
 11. [Naive Bays Classifier](#Naive-Bays-Classifier)
 12. [Gradient Boosting Classifier](#Gradient-Boosting-Classifier)
+
+# Diabetes-Dataset-Prediction
+
+1. I used the following classification Algorithms for the predictions:
+
+* Logistic Regression
+* KNN
+* Random Forest
+* Decision Tree
+* Support Vector Machine
+* Neural Network
+    * Using Scikit MLP Classifier
+    * Using TensorFlow.Keras
+* Naive Bays
+* GradientBoosting Classifier
