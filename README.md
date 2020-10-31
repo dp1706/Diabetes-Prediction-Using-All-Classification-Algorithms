@@ -47,3 +47,19 @@ Topics :
 * recall
 * f1-score
 * Confusion Matrix
+
+3. Data Visualization
+
+* `Scikit-learn`
+
+4. Library Used:
+
+* `Matplotlib`
+
+* `Pandas`
+
+* `Numpy`
+
+* `Seaborn`
+
+* `Tensorflow` __For Neural Network__
