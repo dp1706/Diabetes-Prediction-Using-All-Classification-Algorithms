@@ -20,8 +20,8 @@ Topics :
    8. [Random Forest Classifier](#Random-Forest-Classifier)
    9. [Support Vector Machine](#Support-Vector-Machine)
    10. [Neural Network](#Neural-Network)
-      * [Using Scikit learn](#Using-Scikit-Learn)
-      * [Using Tesnorflow Keras](#Using-Tesnorflow-Keras)
+          * [Using Scikit learn](#Using-Scikit-Learn)
+          * [Using Tesnorflow Keras](#Using-Tesnorflow-Keras)
    11. [Naive Bays Classifier](#Naive-Bays-Classifier)
    12. [Gradient Boosting Classifier](#Gradient-Boosting-Classifier)
 
