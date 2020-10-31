@@ -1,7 +1,5 @@
 # Diabetes-Prediction-Using-All-Classification-Algorithms
----
 
-******************************
 Details:
 
 @Author : Dwarka prasad Bairwa
@@ -41,3 +39,11 @@ Topics :
     * Using TensorFlow.Keras
 * Naive Bays
 * GradientBoosting Classifier
+
+2. Find Results For Each Algorithms:
+
+* Accuracy
+* precision
+* recall
+* f1-score
+* Confusion Matrix
