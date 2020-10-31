@@ -76,5 +76,5 @@ Topics :
 
   * __Age Wise Label Distributions__
   
- ![Age Wise](!)
+ ![Age Wise](!AgeWise_patients.png)
 
